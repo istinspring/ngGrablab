@@ -1,0 +1,10 @@
+# packages
+
+client/vendors
+node_modules
+npm-debug.log
+/decking
+
+# editor files
+
+*.sublime-*
